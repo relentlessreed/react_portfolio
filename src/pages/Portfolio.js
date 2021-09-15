@@ -2,7 +2,7 @@ import React from 'react';
 import passGenScreenshot from '../photos/passgenscreenshot.jpg'
 import noteTakerScreenshot from '../photos/notetaker.png'
 import budgetTrackerScreenshot from '../photos/budget-tracker-demo.png'
-import fitnessTrackerScreenshot from '../photos/fitnesstrackerscreenshot.png'
+import homefaxScreenshot from '../photos/homefaxscreenshot.png'
 import trolleyTurmoilScreenshot from '../photos/trolleyturmoilscreenshot.png'
 import whatCanICookScreenshot from '../photos/whatcanicookscreenshot.png'
 import PortfolioItem from '../components/PortfolioItem';
@@ -35,12 +35,12 @@ export default function Portfolio() {
       githubUrl: 'https://github.com/relentlessreed/week19'
     },
     {
-      img: fitnessTrackerScreenshot,
-      alt: "fitnessTrackerScreenshot",
-      projName: 'Fitness Tracker',
-      projDesc: 'Maintain your fitness records by using mongoDB!',
-      deployedUrl: 'https://workout-tracker-week18.herokuapp.com/',
-      githubUrl: 'https://github.com/relentlessreed/week18'
+      img: homefaxScreenshot,
+      alt: "homefaxScreenshot",
+      projName: 'HomeFax',
+      projDesc: 'Maintain your home improvement records with this MERN stack application!',
+      deployedUrl: 'https://www.homefax.dev',
+      githubUrl: 'https://github.com/brownnicholasj/homeFax'
     },
     {
       img: trolleyTurmoilScreenshot,
