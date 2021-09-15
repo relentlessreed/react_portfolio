@@ -1,7 +1,7 @@
 # React Portfolio ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ![Screenshot](reactportfolioscreenshot.png)  
-[Link To Deployed Application](https://relentlessreed.github.io/react_portfolio)
+[Link To Deployed Application](https://edward-reed-react-portfolio.herokuapp.com/)
 
 # Description
 
