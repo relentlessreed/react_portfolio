@@ -1,6 +1,6 @@
 # React Portfolio ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Screenshot](../assets/portfolioscreenshot.png)  
+![Screenshot](./assets/portfolioscreenshot.png)  
 [Link To Deployed Application](https://edward-reed-react-portfolio.herokuapp.com/)
 
 # Description
